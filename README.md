@@ -142,7 +142,7 @@ Then run:
 Typical performance on CPU-only systems:
 
     Display FPS   : 40–60
-    Inference FPS : 2–git comm3
+    Inference FPS : 2–3
     Latency       : ~0.5 seconds
     Hardware      : 8GB RAM, CPU-only laptop
 
