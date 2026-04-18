@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model files
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
+logs/
+
+# Temporary outputs
+outputs/
+depth_outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Cache/build files
+.cache/
+build/
+dist/
+*.egg-info/
+
+
